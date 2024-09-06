@@ -1,9 +1,9 @@
 _________________________________________________________________________________________________
              TECH STACK USED-->EMPLOYEE MANAGEMENT SYSTEM
 
-BACKEND TECH--> NODEJS /EXPRESS JS
-     FRONTEND TECH--> REACTJS
-            DATABASE--> MONGODB
+1)    BACKEND TECH--> NODEJS /EXPRESS JS
+2)    FRONTEND TECH--> REACTJS
+3)    DATABASE--> MONGODB
 _________________________________________________________________________________________________________
 VIDEO CLIP SHOWING WORKING OF APP GOOGLE DRIVE LINK:-
 
